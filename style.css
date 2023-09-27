@@ -105,10 +105,6 @@ footer h1 {
   font-size: 20px;
 }
 
-footer p {
-  width: ;
-}
-
 .logo img {
   width: 100px;
   margin-right: 30px;
@@ -165,6 +161,12 @@ footer p {
   background-color: #207bf3;
   transform: rotate(360deg);
 }
+
+.ikon a.sp:hover {
+  background-color: #20da67;
+  transform: rotate(360deg);
+}
+
 .ikon a i {
   font-size: 20px;
 }
