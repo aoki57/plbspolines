@@ -172,3 +172,13 @@ footer h1 {
 .futer {
   border-bottom: 1px solid rgb(155, 155, 155);
 }
+
+@media (min-width: 768px) {
+  .first {
+    order: 2;
+  }
+
+  .last {
+    order: 1;
+  }
+}
