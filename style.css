@@ -12,7 +12,7 @@ body {
 }
 
 .banner {
-  background-image: url(bg-2.png);
+  background-image: url(assets/bg-2.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -21,7 +21,7 @@ body {
 }
 
 section {
-  scroll-margin-top: 2rem;
+  scroll-margin-top: 3rem;
 }
 
 .visi {
@@ -61,7 +61,7 @@ section {
 
 .misi {
   color: white;
-  background-color: rgb(194, 194, 1);
+  background-color: rgb(210, 210, 35);
   width: 250px;
   height: 250px;
   display: inline-flex;
@@ -152,6 +152,11 @@ footer h1 {
 .ikon a.tk:hover {
   background-color: #000000;
   text-shadow: 1px 1px #e71d4f, -1px -1px #65c3c9;
+  transform: rotate(360deg);
+}
+
+.ikon a.ln:hover {
+  background-color: #06c152;
   transform: rotate(360deg);
 }
 
