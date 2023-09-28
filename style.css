@@ -20,6 +20,11 @@ body {
   padding: 19% 0;
 }
 
+.banner h2,
+.banner h1 {
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.207);
+}
+
 section {
   scroll-margin-top: 3rem;
 }
